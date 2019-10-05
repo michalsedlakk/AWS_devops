@@ -1,1 +1,1 @@
-# Sample Application for Intellipaat Live
+# Sample Application for GO Live
